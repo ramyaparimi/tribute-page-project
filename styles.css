@@ -1,0 +1,79 @@
+body {
+    background-color: transparent;
+    background-image: url(https://images.unsplash.com/photo-1501430654243-c934cec2e1c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80);
+    background-size: cover;
+    
+}
+
+main {
+    font-size: 18px;
+}
+
+
+#heading {
+    text-align: center;
+    padding: 20px 0 25px;
+    margin: auto;
+}
+
+#image-bg {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px; 
+    background-color: rgb(242,212,156, 0.7);
+}
+
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+#img-caption {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+
+#tribute-info {
+    margin: 50px 0;
+    padding: 5px 0;
+}
+#time-line {
+    background-color: rgb(242,212,156, 0.7);
+    width: 60%;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#quote {
+    background-color: rgb(242,212,156, 0.7);
+    width: 60%;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#quote > p {
+    font-style: italic;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+h3 {
+    text-align: center;
+}
